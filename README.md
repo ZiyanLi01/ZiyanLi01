@@ -12,8 +12,3 @@
 Check out my main project, organized here:  
 [Nest Vector Organization](https://github.com/Nest-Vector)
 
-It includes:  
-[Frontend (React + Tailwind)](https://github.com/dreamheaven/dreamheaven-frontend)  
-[Backend (FastAPI + Supabase)](https://github.com/dreamheaven/dreamheaven-backend)  
-[RAG Search Engine](https://github.com/dreamheaven/dreamheaven-ragsearch)
-
