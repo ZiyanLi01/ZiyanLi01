@@ -11,9 +11,8 @@ Now building end-to-end systems from **backend APIs** to **frontend interfaces**
 ### 🏡 Nest Vector – AI-Powered Real Estate Search
 AI-powered property search platform supporting **natural language queries**, **semantic & hybrid search**, and **RAG pipeline**.  
 **Tech:** React, Tailwind, FastAPI, Supabase, OpenAI, PostgreSQL, Docker, Railway  
-Repos:https://github.com/orgs/Nest-Vector/repositories
-[Organization Repos](https://github.com/orgs/Nest-Vector/repositories)
-[MVP Demo](https://www.youtube.com/watch?v=KcNwqwM7KqM)
+[Organization Repos](https://github.com/orgs/Nest-Vector/repositories) |
+[MVP Demo](https://www.youtube.com/watch?v=KcNwqwM7KqM) |
 [web](https://www.nestvector.com)
 
 ---
