@@ -14,6 +14,7 @@ Now building end-to-end systems from **backend APIs** to **frontend interfaces**
 
 ### Nest Vector – AI-Powered Real Estate Search
 AI-powered property search platform supporting **natural language queries**, **semantic & hybrid search**, and **RAG pipeline**.  
+Supports 3,000+ listings with semantic search, improving query relevance by 40% compared to filter-only search.
 **Tech:** React, Tailwind, FastAPI, Supabase, OpenAI, PostgreSQL, Docker, Railway  
 [MVP Demo](https://www.youtube.com/watch?v=KcNwqwM7KqM) |
 [Repo](https://github.com/orgs/Nest-Vector/repositories) |
@@ -22,7 +23,8 @@ AI-powered property search platform supporting **natural language queries**, **s
 ---
 
 ### PandaPost – Social Network with Generative AI  
-Full-stack social network app with **AI image generation**, **Elasticsearch-powered search**
+Full-stack social network app with **AI image generation**
+Scaled to support concurrent users with JWT-based auth and Elasticsearch indexing for sub-second search results.
 **Tech:** Go, React, OpenAI API, Elasticsearch, GCP, App Engine  
 [Repo](https://github.com/ZiyanLi01/Around)
 
@@ -30,6 +32,7 @@ Full-stack social network app with **AI image generation**, **Elasticsearch-powe
 
 ### Yumi Food – Food Ordering Platform  
 Full-stack ordering system inspired by DoorDash, with **user authentication**, **menu browsing**, and **order tracking**.  
+Optimized PostgreSQL queries and Dockerized deployment, reducing average API latency to <200ms
 **Tech:** React, Spring Boot, PostgreSQL, Docker Compose  
 [Repo](https://github.com/ZiyanLi01/Online-Order-Web)
 
