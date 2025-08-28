@@ -8,19 +8,19 @@ Now building end-to-end systems from **backend APIs** to **frontend interfaces**
 
 ## Featured Projects
 
-### 🏡 Nest Vector – AI-Powered Real Estate Search
+### Nest Vector – AI-Powered Real Estate Search
 AI-powered property search platform supporting **natural language queries**, **semantic & hybrid search**, and **RAG pipeline**.  
 **Tech:** React, Tailwind, FastAPI, Supabase, OpenAI, PostgreSQL, Docker, Railway  
-[Organization Repos](https://github.com/orgs/Nest-Vector/repositories) |
 [MVP Demo](https://www.youtube.com/watch?v=KcNwqwM7KqM) |
-[web](https://www.nestvector.com)
+[Repo](https://github.com/orgs/Nest-Vector/repositories) |
+[Web](https://www.nestvector.com)
 
 ---
 
-### 🐼 PandaPost – Social Network with Generative AI  
+### PandaPost – Social Network with Generative AI  
 Full-stack social network app with **AI image generation**, **Elasticsearch-powered search**
 **Tech:** Go, React, OpenAI API, Elasticsearch, GCP, App Engine  
-🔗 [Repo](https://github.com/ZiyanLi01/Around)
+[Repo](https://github.com/ZiyanLi01/Around)
 
 ---
 
