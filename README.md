@@ -31,7 +31,7 @@ Full-stack social network app with **AI image generation**, **Elasticsearch-powe
 ### Yumi Food – Food Ordering Platform  
 Full-stack ordering system inspired by DoorDash, with **user authentication**, **menu browsing**, and **order tracking**.  
 **Tech:** React, Spring Boot, PostgreSQL, Docker Compose  
-🔗 [Repo](https://github.com/ZiyanLi01/Online-Order-Web)
+[Repo](https://github.com/ZiyanLi01/Online-Order-Web)
 
 ---
 
