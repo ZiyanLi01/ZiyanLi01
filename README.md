@@ -1,7 +1,9 @@
 # Hi  I'm Ziyan Li  
 
 A passionate **Full-Stack Developer & Machine Learning Engineer** with experience building **AI-powered products** and scalable web applications.  
+
 Ph.D. in Geophysics at Penn State| Former Postdoc ML Researcher at UCalagry
+
 Now building end-to-end systems from **backend APIs** to **frontend interfaces** and **ML deployments**.  
 
 ---
