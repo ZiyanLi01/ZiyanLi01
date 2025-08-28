@@ -1,21 +1,25 @@
-# Hi 👋, I'm Ziyan Li  
+# Hi  I'm Ziyan Li  
 
-🚀 A passionate **Full-Stack Developer & Machine Learning Engineer** with experience building **AI-powered products** and scalable web applications.  
-🎓 Ph.D. in Geophysics | Former Postdoc ML Researcher | Now building end-to-end systems from **backend APIs** to **frontend interfaces** and **ML deployments**.  
+A passionate **Full-Stack Developer & Machine Learning Engineer** with experience building **AI-powered products** and scalable web applications.  
+Ph.D. in Geophysics at Penn State| Former Postdoc ML Researcher at UCalagry
+Now building end-to-end systems from **backend APIs** to **frontend interfaces** and **ML deployments**.  
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏡 DreamHeaven – AI-Powered Real Estate Search
+### 🏡 Nest Vector – AI-Powered Real Estate Search
 AI-powered property search platform supporting **natural language queries**, **semantic & hybrid search**, and **RAG pipeline**.  
 **Tech:** React, Tailwind, FastAPI, Supabase, OpenAI, PostgreSQL, Docker, Railway  
-🔗 [Frontend Demo](https://dreamheaven-frontend.vercel.app) | [Backend Repo](https://github.com/Nest-Vector/dreamheaven-backend) | [RAG Search Repo](https://github.com/Nest-Vector/dreamheaven-ragSearch)
+Repos:https://github.com/orgs/Nest-Vector/repositories
+[Organization Repos](https://github.com/orgs/Nest-Vector/repositories)
+[MVP Demo](https://www.youtube.com/watch?v=KcNwqwM7KqM)
+[web](https://www.nestvector.com)
 
 ---
 
 ### 🐼 PandaPost – Social Network with Generative AI  
-Full-stack social network app with **AI image generation**, **Elasticsearch-powered search**, and **JWT authentication**.  
+Full-stack social network app with **AI image generation**, **Elasticsearch-powered search**
 **Tech:** Go, React, OpenAI API, Elasticsearch, GCP, App Engine  
 🔗 [Repo](https://github.com/ZiyanLi01/Around)
 
