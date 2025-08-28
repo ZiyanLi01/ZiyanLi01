@@ -5,8 +5,6 @@ A passionate **Full-Stack Developer & Machine Learning Engineer** with experienc
 Ph.D. in Geophysics at Penn State| Former Postdoc ML Researcher at UCalagry
 
 Now building end-to-end systems from **backend APIs** to **frontend interfaces** and **ML deployments**.  
-
----
 </p>
 
 
